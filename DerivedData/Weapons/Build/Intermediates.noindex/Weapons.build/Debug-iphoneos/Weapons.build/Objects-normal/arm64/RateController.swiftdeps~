@@ -1,0 +1,577 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RateController"
+provides-nominal:
+- "7Weapons14RateControllerC"
+provides-member:
+- ["7Weapons14RateControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "dragStackView"
+- "rateButtons"
+- "stackView"
+- "tapBackground"
+- "viewDidAppear"
+- "viewDidLoad"
+depends-top-level:
+- !private "/"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CGAffineTransform"
+- "RateController"
+- "UIButton"
+- "UIPanGestureRecognizer"
+- "UIStackView"
+- "UIViewController"
+- !private "UIViewPropertyAnimator"
+- !private "sin"
+depends-member:
+- !private ["Sa", "subscript"]
+- !private ["s10ArraySliceV", "alpha"]
+- !private ["s10ArraySliceV", "transform"]
+- !private ["s23BidirectionalCollectionP", "alpha"]
+- !private ["s23BidirectionalCollectionP", "subscript"]
+- !private ["s23BidirectionalCollectionP", "transform"]
+- !private ["So15CALayerDelegateP", "alpha"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "transform"]
+- !private ["SC17CGAffineTransformV", "concatenating"]
+- !private ["SC17CGAffineTransformV", "identity"]
+- !private ["SC17CGAffineTransformV", "init"]
+- !private ["SC17CGAffineTransformV", "rotated"]
+- !private ["SC7CGPointV", "x"]
+- !private ["SC7CGPointV", "y"]
+- !private ["SC6CGRectV", "width"]
+- !private ["s7CVarArgP", "CGAffineTransform"]
+- !private ["s7CVarArgP", "UIViewPropertyAnimator"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "alpha"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "rateButtons"]
+- !private ["s7CVarArgP", "sin"]
+- !private ["s7CVarArgP", "stackView"]
+- !private ["s7CVarArgP", "startAnimation"]
+- !private ["s7CVarArgP", "state"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "transform"]
+- !private ["s7CVarArgP", "translation"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s10CollectionP", "alpha"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10CollectionP", "transform"]
+- !private ["s28CustomDebugStringConvertibleP", "CGAffineTransform"]
+- !private ["s28CustomDebugStringConvertibleP", "UIViewPropertyAnimator"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "alpha"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "rateButtons"]
+- !private ["s28CustomDebugStringConvertibleP", "sin"]
+- !private ["s28CustomDebugStringConvertibleP", "stackView"]
+- !private ["s28CustomDebugStringConvertibleP", "startAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "state"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "transform"]
+- !private ["s28CustomDebugStringConvertibleP", "translation"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "x"]
+- !private ["s29CustomPlaygroundQuickLookableP", "y"]
+- !private ["s17CustomReflectableP", "alpha"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "transform"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s23CustomStringConvertibleP", "CGAffineTransform"]
+- !private ["s23CustomStringConvertibleP", "UIViewPropertyAnimator"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "alpha"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "rateButtons"]
+- !private ["s23CustomStringConvertibleP", "sin"]
+- !private ["s23CustomStringConvertibleP", "stackView"]
+- !private ["s23CustomStringConvertibleP", "startAnimation"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "transform"]
+- !private ["s23CustomStringConvertibleP", "translation"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s9DecodableP", "concatenating"]
+- !private ["s9DecodableP", "identity"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "rotated"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9DecodableP", "x"]
+- !private ["s9DecodableP", "y"]
+- !private ["s9EncodableP", "concatenating"]
+- !private ["s9EncodableP", "identity"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "rotated"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EncodableP", "x"]
+- !private ["s9EncodableP", "y"]
+- !private ["s9EquatableP", "CGAffineTransform"]
+- !private ["s9EquatableP", "UIViewPropertyAnimator"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "alpha"]
+- ["s9EquatableP", "changed"]
+- !private ["s9EquatableP", "concatenating"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "dismiss"]
+- ["s9EquatableP", "ended"]
+- !private ["s9EquatableP", "frame"]
+- !private ["s9EquatableP", "identity"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "rateButtons"]
+- !private ["s9EquatableP", "rotated"]
+- !private ["s9EquatableP", "sin"]
+- !private ["s9EquatableP", "stackView"]
+- !private ["s9EquatableP", "startAnimation"]
+- !private ["s9EquatableP", "state"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s9EquatableP", "transform"]
+- !private ["s9EquatableP", "translation"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s9EquatableP", "width"]
+- !private ["s9EquatableP", "x"]
+- !private ["s9EquatableP", "y"]
+- !private ["s25ExpressibleByArrayLiteralP", "alpha"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "transform"]
+- !private ["s8HashableP", "CGAffineTransform"]
+- !private ["s8HashableP", "UIViewPropertyAnimator"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "alpha"]
+- ["s8HashableP", "changed"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "dismiss"]
+- ["s8HashableP", "ended"]
+- !private ["s8HashableP", "frame"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "rateButtons"]
+- !private ["s8HashableP", "sin"]
+- !private ["s8HashableP", "stackView"]
+- !private ["s8HashableP", "startAnimation"]
+- !private ["s8HashableP", "state"]
+- !private ["s8HashableP", "transform"]
+- !private ["s8HashableP", "translation"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "viewDidLoad"]
+- !private ["s22LazyCollectionProtocolP", "alpha"]
+- !private ["s22LazyCollectionProtocolP", "transform"]
+- !private ["s20LazySequenceProtocolP", "alpha"]
+- !private ["s20LazySequenceProtocolP", "transform"]
+- !private ["s17MutableCollectionP", "alpha"]
+- !private ["s17MutableCollectionP", "subscript"]
+- !private ["s17MutableCollectionP", "transform"]
+- !private ["So8NSCodingP", "CGAffineTransform"]
+- !private ["So8NSCodingP", "UIViewPropertyAnimator"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "alpha"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "rateButtons"]
+- !private ["So8NSCodingP", "sin"]
+- !private ["So8NSCodingP", "stackView"]
+- !private ["So8NSCodingP", "transform"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "startAnimation"]
+- !private ["So26NSExtensionRequestHandlingP", "CGAffineTransform"]
+- !private ["So26NSExtensionRequestHandlingP", "UIViewPropertyAnimator"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "rateButtons"]
+- !private ["So26NSExtensionRequestHandlingP", "sin"]
+- !private ["So26NSExtensionRequestHandlingP", "stackView"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "CGAffineTransform"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIPanGestureRecognizer"]
+- ["So8NSObjectC", "UIStackView"]
+- !private ["So8NSObjectC", "UIViewPropertyAnimator"]
+- !private ["So8NSObjectC", "alpha"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "dismiss"]
+- ["So8NSObjectC", "dragStackView"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "rateButtons"]
+- !private ["So8NSObjectC", "sin"]
+- ["So8NSObjectC", "stackView"]
+- !private ["So8NSObjectC", "startAnimation"]
+- !private ["So8NSObjectC", "state"]
+- ["So8NSObjectC", "tapBackground"]
+- !private ["So8NSObjectC", "transform"]
+- !private ["So8NSObjectC", "translation"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidAppear"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "CGAffineTransform"]
+- !private ["So16NSObjectProtocolP", "UIViewPropertyAnimator"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "alpha"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "dismiss"]
+- !private ["So16NSObjectProtocolP", "frame"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "rateButtons"]
+- !private ["So16NSObjectProtocolP", "sin"]
+- !private ["So16NSObjectProtocolP", "stackView"]
+- !private ["So16NSObjectProtocolP", "startAnimation"]
+- !private ["So16NSObjectProtocolP", "state"]
+- !private ["So16NSObjectProtocolP", "transform"]
+- !private ["So16NSObjectProtocolP", "translation"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- !private ["s22RandomAccessCollectionP", "alpha"]
+- !private ["s22RandomAccessCollectionP", "subscript"]
+- !private ["s22RandomAccessCollectionP", "transform"]
+- !private ["s26RangeReplaceableCollectionP", "alpha"]
+- !private ["s26RangeReplaceableCollectionP", "subscript"]
+- !private ["s26RangeReplaceableCollectionP", "transform"]
+- ["7Weapons14RateControllerC", "Bool"]
+- !private ["7Weapons14RateControllerC", "CGAffineTransform"]
+- ["7Weapons14RateControllerC", "UIButton"]
+- ["7Weapons14RateControllerC", "UIPanGestureRecognizer"]
+- ["7Weapons14RateControllerC", "UIStackView"]
+- !private ["7Weapons14RateControllerC", "UIViewPropertyAnimator"]
+- ["7Weapons14RateControllerC", "deinit"]
+- ["7Weapons14RateControllerC", "didReceiveMemoryWarning"]
+- !private ["7Weapons14RateControllerC", "dismiss"]
+- ["7Weapons14RateControllerC", "dragStackView"]
+- ["7Weapons14RateControllerC", "init"]
+- ["7Weapons14RateControllerC", "rateButtons"]
+- !private ["7Weapons14RateControllerC", "sin"]
+- ["7Weapons14RateControllerC", "stackView"]
+- ["7Weapons14RateControllerC", "tapBackground"]
+- !private ["7Weapons14RateControllerC", "view"]
+- ["7Weapons14RateControllerC", "viewDidAppear"]
+- ["7Weapons14RateControllerC", "viewDidLoad"]
+- ["s16RawRepresentableP", "changed"]
+- ["s16RawRepresentableP", "ended"]
+- !private ["s8SequenceP", "alpha"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s8SequenceP", "transform"]
+- !private ["s5SliceV", "alpha"]
+- !private ["s5SliceV", "transform"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "alpha"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "transform"]
+- !private ["So29UIAccessibilityIdentificationP", "alpha"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "transform"]
+- !private ["So12UIAppearanceP", "alpha"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "transform"]
+- !private ["So21UIAppearanceContainerP", "CGAffineTransform"]
+- !private ["So21UIAppearanceContainerP", "UIViewPropertyAnimator"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "alpha"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "rateButtons"]
+- !private ["So21UIAppearanceContainerP", "sin"]
+- !private ["So21UIAppearanceContainerP", "stackView"]
+- !private ["So21UIAppearanceContainerP", "transform"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "alpha"]
+- !private ["So8UIButtonC", "transform"]
+- !private ["So18UIContentContainerP", "CGAffineTransform"]
+- !private ["So18UIContentContainerP", "UIViewPropertyAnimator"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "rateButtons"]
+- !private ["So18UIContentContainerP", "sin"]
+- !private ["So18UIContentContainerP", "stackView"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So9UIControlC", "alpha"]
+- !private ["So9UIControlC", "transform"]
+- !private ["So17UICoordinateSpaceP", "alpha"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "transform"]
+- !private ["So13UIDynamicItemP", "alpha"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "transform"]
+- !private ["So18UIFocusEnvironmentP", "CGAffineTransform"]
+- !private ["So18UIFocusEnvironmentP", "UIViewPropertyAnimator"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "alpha"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "rateButtons"]
+- !private ["So18UIFocusEnvironmentP", "sin"]
+- !private ["So18UIFocusEnvironmentP", "stackView"]
+- !private ["So18UIFocusEnvironmentP", "transform"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "alpha"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "transform"]
+- !private ["So19UIGestureRecognizerC", "state"]
+- !private ["So19UIGestureRecognizerC", "translation"]
+- ["SC24UIGestureRecognizerStateO", "changed"]
+- ["SC24UIGestureRecognizerStateO", "ended"]
+- !private ["So22UIPanGestureRecognizerC", "state"]
+- !private ["So22UIPanGestureRecognizerC", "translation"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGAffineTransform"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIViewPropertyAnimator"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "alpha"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "rateButtons"]
+- !private ["So30UIPasteConfigurationSupportingP", "sin"]
+- !private ["So30UIPasteConfigurationSupportingP", "stackView"]
+- !private ["So30UIPasteConfigurationSupportingP", "transform"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "CGAffineTransform"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIPanGestureRecognizer"]
+- ["So11UIResponderC", "UIStackView"]
+- !private ["So11UIResponderC", "UIViewPropertyAnimator"]
+- !private ["So11UIResponderC", "alpha"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- !private ["So11UIResponderC", "dismiss"]
+- ["So11UIResponderC", "dragStackView"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "rateButtons"]
+- !private ["So11UIResponderC", "sin"]
+- ["So11UIResponderC", "stackView"]
+- ["So11UIResponderC", "tapBackground"]
+- !private ["So11UIResponderC", "transform"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidAppear"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "CGAffineTransform"]
+- !private ["So30UIResponderStandardEditActionsP", "UIViewPropertyAnimator"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "alpha"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "rateButtons"]
+- !private ["So30UIResponderStandardEditActionsP", "sin"]
+- !private ["So30UIResponderStandardEditActionsP", "stackView"]
+- !private ["So30UIResponderStandardEditActionsP", "transform"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "alpha"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "transform"]
+- !private ["So11UIStackViewC", "frame"]
+- !private ["So11UIStackViewC", "transform"]
+- !private ["So16UIStateRestoringP", "CGAffineTransform"]
+- !private ["So16UIStateRestoringP", "UIViewPropertyAnimator"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "rateButtons"]
+- !private ["So16UIStateRestoringP", "sin"]
+- !private ["So16UIStateRestoringP", "stackView"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "CGAffineTransform"]
+- !private ["So18UITraitEnvironmentP", "UIViewPropertyAnimator"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "alpha"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "rateButtons"]
+- !private ["So18UITraitEnvironmentP", "sin"]
+- !private ["So18UITraitEnvironmentP", "stackView"]
+- !private ["So18UITraitEnvironmentP", "transform"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So6UIViewC", "alpha"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "transform"]
+- !private ["So15UIViewAnimatingP", "init"]
+- !private ["So15UIViewAnimatingP", "startAnimation"]
+- ["So16UIViewControllerC", "Bool"]
+- !private ["So16UIViewControllerC", "CGAffineTransform"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIPanGestureRecognizer"]
+- ["So16UIViewControllerC", "UIStackView"]
+- !private ["So16UIViewControllerC", "UIViewPropertyAnimator"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- ["So16UIViewControllerC", "dragStackView"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "rateButtons"]
+- !private ["So16UIViewControllerC", "sin"]
+- ["So16UIViewControllerC", "stackView"]
+- ["So16UIViewControllerC", "tapBackground"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidAppear"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["So25UIViewImplicitlyAnimatingP", "init"]
+- !private ["So25UIViewImplicitlyAnimatingP", "startAnimation"]
+- !private ["So22UIViewPropertyAnimatorC", "init"]
+- !private ["So22UIViewPropertyAnimatorC", "startAnimation"]
+- !private ["s14_ArrayProtocolP", "alpha"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s14_ArrayProtocolP", "transform"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "alpha"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "transform"]
+- !private ["s24_DestructorSafeContainerP", "alpha"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "transform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGAffineTransform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIViewPropertyAnimator"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "alpha"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rateButtons"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stackView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "translation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "concatenating"]
+- !private ["s21_ObjectiveCBridgeableP", "identity"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "rotated"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+depends-nominal:
+- !private "Sa"
+- !private "s10ArraySliceV"
+- !private "s23BidirectionalCollectionP"
+- !private "So15CALayerDelegateP"
+- !private "SC17CGAffineTransformV"
+- !private "SC7CGPointV"
+- !private "SC6CGRectV"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s8HashableP"
+- !private "s22LazyCollectionProtocolP"
+- !private "s20LazySequenceProtocolP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- "7Weapons14RateControllerC"
+- "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "s5SliceV"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So19UIGestureRecognizerC"
+- "SC24UIGestureRecognizerStateO"
+- !private "So22UIPanGestureRecognizerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So11UIStackViewC"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "So15UIViewAnimatingP"
+- "So16UIViewControllerC"
+- !private "So25UIViewImplicitlyAnimatingP"
+- !private "So22UIViewPropertyAnimatorC"
+- !private "s14_ArrayProtocolP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "88ae05513194567cee9fb24f8d79e6db"

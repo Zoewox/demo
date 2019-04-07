@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "de42ea4f226f114dd5360319fceaae85"
+build_time: [1537875065, 170431000]
+inputs:
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/WeaponsTableViewController.swift": [1537781811, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/RateController.swift": [1536647965, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/NewWeaponController.swift": [1537273572, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/DetailController.swift": [1536650469, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift": [1537875060, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/AppDelegate.swift": [1537781811, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/UIViewHelper.swift": [1534241808, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/CardCell.swift": [1534227089, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/NaviExt.swift": [1537781811, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/pickerViewFill.swift": [1536808101, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/DetailCell.swift": [1535597273, 0]
+  "/Users/wox/Desktop/ios11/Weapons/Weapons/Weapon.swift": [1536743946, 0]

@@ -1,0 +1,78 @@
+[
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 266,
+    "remove": 1,
+    "text": "UIImagePickerCon"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 269,
+    "remove": 1,
+    "text": "oller.I"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 271,
+    "remove": 1,
+    "text": "foKey"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 283,
+    "text": "// Local variable inserted by Swift 4.2 migrator.\nlet info = convertFromUIImagePickerControllerInfoKeyDictionary(info)\n\n"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 389,
+    "text": "convertFrom"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 412,
+    "remove": 1,
+    "text": "InfoKey(UIImagePickerController.InfoKey.m"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 421,
+    "text": ")"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 522,
+    "text": "convertFrom"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 545,
+    "remove": 1,
+    "text": "InfoKey(UIImagePickerController.InfoKey.m"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 553,
+    "text": ")"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 1265,
+    "text": "convertFrom"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 1288,
+    "remove": 1,
+    "text": "InfoKey(UIImagePickerController.InfoKey.o"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 1301,
+    "text": ")"
+  },
+  {
+    "file": "/Users/wox/Desktop/ios11/Weapons/Weapons/MediaSelect.swift",
+    "offset": 4565,
+    "text": "\n// Helper function inserted by Swift 4.2 migrator.\nfileprivate func convertFromUIImagePickerControllerInfoKeyDictionary(_ input: [UIImagePickerController.InfoKey: Any]) -> [String: Any] {\n\treturn Dictionary(uniqueKeysWithValues: input.map {key, value in (key.rawValue, value)})\n}\n\n// Helper function inserted by Swift 4.2 migrator.\nfileprivate func convertFromUIImagePickerControllerInfoKey(_ input: UIImagePickerController.InfoKey) -> String {\n\treturn input.rawValue\n}\n"
+  }
+]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>060E9880-F58A-4D55-8EF5-E65193192323</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.ProvisioningLog</string>
+			<key>fileName</key>
+			<string>060E9880-F58A-4D55-8EF5-E65193192323.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>signature</key>
+			<string>Update Signing</string>
+			<key>timeStartedRecording</key>
+			<real>567052679.90384603</real>
+			<key>timeStoppedRecording</key>
+			<real>567052680.65494096</real>
+			<key>title</key>
+			<string>Update Signing</string>
+			<key>uniqueIdentifier</key>
+			<string>060E9880-F58A-4D55-8EF5-E65193192323</string>
+		</dict>
+		<key>A39F09C4-4EBE-469F-A013-2B8C2ECD1EE8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.ProvisioningLog</string>
+			<key>fileName</key>
+			<string>A39F09C4-4EBE-469F-A013-2B8C2ECD1EE8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Update Signing</string>
+			<key>timeStartedRecording</key>
+			<real>576335942.862167</real>
+			<key>timeStoppedRecording</key>
+			<real>576335981.30309105</real>
+			<key>title</key>
+			<string>Update Signing</string>
+			<key>uniqueIdentifier</key>
+			<string>A39F09C4-4EBE-469F-A013-2B8C2ECD1EE8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

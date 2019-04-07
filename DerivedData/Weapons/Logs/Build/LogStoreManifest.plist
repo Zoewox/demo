@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>43CEDAB4-C614-4EBB-8588-8B6E973B64BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43CEDAB4-C614-4EBB-8588-8B6E973B64BF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Weapons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Weapons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Weapons</string>
+			<key>timeStartedRecording</key>
+			<real>576335949.19810295</real>
+			<key>timeStoppedRecording</key>
+			<real>576335959.80032098</real>
+			<key>title</key>
+			<string>Build Weapons</string>
+			<key>uniqueIdentifier</key>
+			<string>43CEDAB4-C614-4EBB-8588-8B6E973B64BF</string>
+		</dict>
+		<key>E3E4D530-2B83-4FCC-A29E-2EC02E57827A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E3E4D530-2B83-4FCC-A29E-2EC02E57827A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Weapons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Weapons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Weapons</string>
+			<key>timeStartedRecording</key>
+			<real>559567864.70550501</real>
+			<key>timeStoppedRecording</key>
+			<real>559567870.19335198</real>
+			<key>title</key>
+			<string>Build Weapons</string>
+			<key>uniqueIdentifier</key>
+			<string>E3E4D530-2B83-4FCC-A29E-2EC02E57827A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

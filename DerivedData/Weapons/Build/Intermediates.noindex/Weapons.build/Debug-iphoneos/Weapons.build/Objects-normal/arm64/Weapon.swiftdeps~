@@ -1,0 +1,257 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Weapon"
+- "WeaponSpecs"
+- "Origin"
+provides-nominal:
+- "7Weapons6WeaponV"
+- "7Weapons11WeaponSpecsV"
+- "7Weapons6OriginV"
+provides-member:
+- ["7Weapons6WeaponV", ""]
+- ["7Weapons11WeaponSpecsV", ""]
+- ["7Weapons6OriginV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "Codable"
+- "Double"
+- "Int"
+- "Origin"
+- "String"
+- "StringLiteralType"
+- "Weapon"
+- "WeaponSpecs"
+- !private "~="
+depends-member:
+- ["Sa", "init"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "init"]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- ["s9DecodableP", "Double"]
+- ["s9DecodableP", "String"]
+- ["s9DecodableP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "bullet"]
+- !private ["s9DecodableP", "bullets"]
+- !private ["s9DecodableP", "continent"]
+- !private ["s9DecodableP", "countries"]
+- ["s9DecodableP", "encode"]
+- !private ["s9DecodableP", "favorite"]
+- !private ["s9DecodableP", "image"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "mv"]
+- !private ["s9DecodableP", "name"]
+- !private ["s9DecodableP", "origin"]
+- !private ["s9DecodableP", "rating"]
+- !private ["s9DecodableP", "text"]
+- !private ["s9DecodableP", "type"]
+- !private ["s9DecodableP", "types"]
+- !private ["s7DecoderP", "container"]
+- ["s9EncodableP", "Double"]
+- ["s9EncodableP", "String"]
+- ["s9EncodableP", ""]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "bullet"]
+- !private ["s9EncodableP", "bullets"]
+- !private ["s9EncodableP", "continent"]
+- !private ["s9EncodableP", "countries"]
+- ["s9EncodableP", "encode"]
+- !private ["s9EncodableP", "favorite"]
+- !private ["s9EncodableP", "image"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "mv"]
+- !private ["s9EncodableP", "name"]
+- !private ["s9EncodableP", "origin"]
+- !private ["s9EncodableP", "rating"]
+- !private ["s9EncodableP", "text"]
+- !private ["s9EncodableP", "type"]
+- !private ["s9EncodableP", "types"]
+- !private ["s7EncoderP", "container"]
+- !private ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "debugDescription"]
+- ["s9EquatableP", "description"]
+- ["s9EquatableP", "hashValue"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "intValue"]
+- ["s9EquatableP", "stringValue"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "debugDescription"]
+- ["s8HashableP", "description"]
+- ["s8HashableP", "hashValue"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "intValue"]
+- ["s8HashableP", "stringValue"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s17MutableCollectionP", "init"]
+- !private ["7Weapons6OriginV", "CodingKeys"]
+- ["7Weapons6OriginV", "String"]
+- ["7Weapons6OriginV", "continent"]
+- ["7Weapons6OriginV", "countries"]
+- ["7Weapons6OriginV", "deinit"]
+- ["7Weapons6OriginV", "encode"]
+- ["7Weapons6OriginV", "init"]
+- ["s22RandomAccessCollectionP", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["s8SequenceP", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["7Weapons6WeaponV", "Bool"]
+- !private ["7Weapons6WeaponV", "CodingKeys"]
+- ["7Weapons6WeaponV", "Double"]
+- ["7Weapons6WeaponV", "Int"]
+- ["7Weapons6WeaponV", "String"]
+- ["7Weapons6WeaponV", "bullet"]
+- ["7Weapons6WeaponV", "deinit"]
+- ["7Weapons6WeaponV", "encode"]
+- ["7Weapons6WeaponV", "favorite"]
+- ["7Weapons6WeaponV", "image"]
+- ["7Weapons6WeaponV", "init"]
+- ["7Weapons6WeaponV", "mv"]
+- ["7Weapons6WeaponV", "name"]
+- ["7Weapons6WeaponV", "origin"]
+- ["7Weapons6WeaponV", "rating"]
+- ["7Weapons6WeaponV", "text"]
+- ["7Weapons6WeaponV", "type"]
+- !private ["7Weapons11WeaponSpecsV", "CodingKeys"]
+- ["7Weapons11WeaponSpecsV", "Double"]
+- ["7Weapons11WeaponSpecsV", "String"]
+- ["7Weapons11WeaponSpecsV", "bullets"]
+- ["7Weapons11WeaponSpecsV", "deinit"]
+- ["7Weapons11WeaponSpecsV", "encode"]
+- ["7Weapons11WeaponSpecsV", "init"]
+- ["7Weapons11WeaponSpecsV", "types"]
+- ["s14_ArrayProtocolP", "init"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "Sa"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s9CodingKeyP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "s7DecoderP"
+- "s9EncodableP"
+- !private "s7EncoderP"
+- "s9EquatableP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "s17MutableCollectionP"
+- "7Weapons6OriginV"
+- "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "7Weapons6WeaponV"
+- "7Weapons11WeaponSpecsV"
+- "s14_ArrayProtocolP"
+- "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "7597f2fe8d806c3f39b135fc753351e9"
